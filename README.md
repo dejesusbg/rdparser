@@ -1,4 +1,4 @@
-# Recursive Descendant Parser
+# Recursive Descent Parser
 
 ## Overview
 
